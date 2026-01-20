@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mr. Thomson - College Counselor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            margin: 0;
+        }
+        header {
+            background-color: #4a90e2;
+            color: white;
+            text-align: center;
+            padding: 30px;
+        }
+        main {
+            max-width: 900px;
+            margin: 40px auto;
+            background-color: white;
+            padding: 30px;
+            border-radius: 15px;
+        }
+        h3 {
+            color: #4a90e2;
+            border-bottom: 2px solid #4a90e2;
+        }
+        p, ul {
+            font-size: 18px;
+        }
+        footer {
+            text-align: center;
+            background-color: #4a90e2;
+            color: white;
+            padding: 15px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Mr. Thomson</h1>
+    <h2>College Counselor</h2>
+</header>
+
+<main>
+    <h3>About Mr. Thomson</h3>
+    <p>Mr. Thomson is a college counselor at Saint Johnsbury Academy Jeju. He has many years of experience helping students prepare for college and plan their future.</p>
+
+    <h3>What He Helps With</h3>
+    <ul>
+        <li>College selection and planning</li>
+        <li>Application timelines</li>
+        <li>Academic goal setting</li>
+    </ul>
+</main>
+
+<footer>
+    <p>Created by YuJun Kim | 2025</p>
+</footer>
+
+</body>
+</html>

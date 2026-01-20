@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ms. Lor - College Counselor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #eef3ff;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+
+        header {
+            background-color: #5b6cff;
+            color: white;
+            text-align: center;
+            padding: 30px;
+        }
+
+        main {
+            max-width: 800px;
+            margin: 40px auto;
+            background-color: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 8px 15px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            color: #5b6cff;
+        }
+
+        p, ul {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Ms. Lor</h1>
+    <p>College Counselor</p>
+</header>
+
+<main>
+    <h2>Background</h2>
+    <p>
+        Ms. Lor is an experienced college counselor who has worked with students for more than 8 years.
+        She specializes in helping students find colleges that match their academic goals and personal interests.
+    </p>
+
+    <h2>How She Helps Students</h2>
+    <ul>
+        <li>College research and selection</li>
+        <li>Application timelines and organization</li>
+        <li>College essay brainstorming and editing</li>
+        <li>Scholarship and financial aid guidance</li>
+        <li>Academic planning</li>
+    </ul>
+
+    <p><em>"Every student has a unique path, and my job is to help them find it."</em></p>
+</main>
+
+</body>
+</html>

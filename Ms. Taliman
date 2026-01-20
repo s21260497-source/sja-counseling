@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ms. Taliman - Emotional Counselor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fff3e8;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+
+        header {
+            background-color: #ff8c42;
+            color: white;
+            text-align: center;
+            padding: 30px;
+        }
+
+        main {
+            max-width: 800px;
+            margin: 40px auto;
+            background-color: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 8px 15px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            color: #ff8c42;
+        }
+
+        p, ul {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Ms. Taliman</h1>
+    <p>Emotional & Student Counselor</p>
+</header>
+
+<main>
+    <h2>Background</h2>
+    <p>
+        Ms. Taliman is an emotional counselor who focuses on student well-being and mental health.
+        She has a Master’s degree in Counseling and works closely with students to help them manage stress
+        and personal challenges.
+    </p>
+
+    <h2>How She Helps Students</h2>
+    <ul>
+        <li>Emotional support and counseling</li>
+        <li>Stress and anxiety management</li>
+        <li>Building confidence and self-esteem</li>
+        <li>Conflict resolution</li>
+        <li>Supporting students during transitions</li>
+    </ul>
+
+    <p><em>"Taking care of your mental health is the first step to success."</em></p>
+</main>
+
+</body>
+</html>
